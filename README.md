@@ -5,9 +5,7 @@
 💡 Passionate about Data Analytics, AI, and building real-world solutions
 
 ---
-solutions
-
-🚀 About Me
+##🚀 About Me
 
 I am a Computer Engineering graduate transitioning into Data Analytics and Data Engineering.
 
