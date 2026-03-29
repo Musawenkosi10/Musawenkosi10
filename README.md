@@ -18,11 +18,16 @@ I am also developing knowledge in ETL pipelines and data workflows, with a long-
 ---
 ## Skills
 
--Python
--SQL
+-Python 
+
+-SQL 
+
 -Microsoft Excel 
--Power BI 
+
+-Power BI  
+
 -Data Analysis
+
 -Machine Learning 
 
 ---
